@@ -7,7 +7,7 @@ It showcases my skills, projects, and creative design — built completely from 
 
 ## 🔗 Live Demo
 Check out the deployed website here:  
-👉 **[View Portfolio](https://mafia-0001.github.io/Portfolio-CSS/)**  
+👉 **[View Portfolio](https://mafia-0001.github.io/Portfolio-CSS-lab-2/)**  
 
 ---
 
